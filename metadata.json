@@ -1,0 +1,6 @@
+{
+  "name": "RecruitSandbox",
+  "description": "Transform raw hiring notes into polished LinkedIn job descriptions and targeted behavioral interview guides using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
